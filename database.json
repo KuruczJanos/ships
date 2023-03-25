@@ -1,0 +1,10 @@
+{
+    "ships": [
+        {"name": "Túra Csónak", "length": 420, "price": 185000, "person": 2, "trailer": "Nem"},
+        {"name": "Kajütös Hajó", "length": 520, "price": 999000, "person": 2, "trailer": "Nem"},
+        {"name": "Motoros Hajó", "length": 610, "price": 1950000, "person": 2, "trailer": "Nem"},
+        {"name": "Motorcsónak", "length": 620, "price": 3100000, "person": 7, "trailer": "Nem"},
+        {"name": "Horgászcsónak", "length": 620, "price": 9596000, "person": 2, "trailer": "Igen"},
+        {"name": "Motoros Hajó", "length": 630, "price": 6250000, "person": 3, "trailer": "Nem"}
+    ]
+}
