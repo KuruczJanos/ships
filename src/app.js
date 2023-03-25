@@ -2,7 +2,7 @@
 File: app.js
 Author: Kurucz János
 Copyright: 2023, Kurucz János
-Group: Szoft I-1 E
+Group: Szoft  I-1 E
 Date: 2023-03-25
 Github: https://github.com/KuruczJanos/ships.git
 Licenc: GNU GPL
